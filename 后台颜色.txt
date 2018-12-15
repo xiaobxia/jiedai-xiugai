@@ -1,0 +1,14 @@
+#fff8de.   ffdee3.   e4deff
+#fffbed.   ffeded.   f3edff
+#428bca.   d94273.   4342d9
+#f1edff.   ffedf2.   eeedff
+#c153f6.   Ff5e9b.   5e66ff
+#7447f7.   Ff2560.   3325ff
+#5f10ff.   Ff2560.   3325ff
+#9270f4.   Fe637b.   7f63fe
+#F6F4FD.   F9ecef.   edecf9  
+#B5CFD9.   d9b5b8.   beb5d9    
+#e0e0ff.   fbd0dd.   d1d0fb      
+#6230f4.   f4305a.   4730f4 
+#6f4dfc.   fc4d6a.   6a4dfc
+#674afc.   ff173d.   3e17ff      

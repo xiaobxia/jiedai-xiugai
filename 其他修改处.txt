@@ -1,0 +1,11 @@
+/newh5/web/js/m-layouts.js  修改下载地址113行
+
+$(this).val('exportcsv');return true;
+
+修改微信收款
+
+repayment_weixin
+
+iosDownload需要修改
+
+androidDownload两个链接要修改
