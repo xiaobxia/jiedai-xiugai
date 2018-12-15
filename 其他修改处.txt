@@ -9,3 +9,9 @@ repayment_weixin
 iosDownload需要修改
 
 androidDownload两个链接要修改
+
+wx-auth 的公众号名字
+
+common/services/WeixinService修改公总号
+
+全局搜索app名称替换
